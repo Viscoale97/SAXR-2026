@@ -1,5 +1,5 @@
 # 🌐 Shaping Future Human Connection: Social Augmentation through XR Technologies  
-## 1st Workshop edition at CHI Conference on Human Factors in Computing Systems 202
+## 1st Workshop edition at CHI Conference on Human Factors in Computing Systems 2026
 
 Welcome to the GitHub repository of the CHI 2026 workshop  
 **Shaping Future Human Connection: Social Augmentation through XR Technologies**.
