@@ -1,6 +1,5 @@
-# 🌐 Shaping Future Human Connection  
-## Social Augmentation through XR Technologies  
-### CHI 2026 Workshop
+# 🌐 Shaping Future Human Connection: Social Augmentation through XR Technologies  
+## 1st Workshop edition at CHI Conference on Human Factors in Computing Systems 202
 
 Welcome to the GitHub repository of the CHI 2026 workshop  
 **Shaping Future Human Connection: Social Augmentation through XR Technologies**.
@@ -78,17 +77,36 @@ Contribution guidelines will be provided closer to the workshop.
 
 ---
 
-## 🔗 Useful Links
+## 🔗 Links
 
-- 🌍 Workshop website: coming soon  
-- 💬 Discord community: shared with accepted participants  
-- 📘 Proceedings: CEUR-WS (open access)
+🌐 Website: https://sites.google.com/view/social-xr-chi2026/home  
+💬 Discord: https://discord.gg/ZzzH3rubUm  
+📘 Proceedings: https://ceur-ws.org/
 
 ---
 
 ## 👥 Organizers
 
-Information about the workshop organizers will be added here.
+- **Alessandro Visconti**  
+  Ph.D. candidate at Politecnico di Torino. His research focuses on socially engaging XR and Metaverse experiences, combining consumer technologies and AI-driven approaches for user-centered virtual worlds.
+
+- **Fabrizio Lamberti**  
+  Full Professor at Politecnico di Torino. His research spans HCI, VR and AR, intelligent systems, and machine learning for virtual experiences. Senior Member of IEEE and Vice President for Technical Activities of the IEEE Consumer Technology Society.
+
+- **Theophilus Teo**  
+  Postdoctoral Research Fellow at the Empathic Computing Laboratory, University of South Australia. His work explores HCI, XR interactions, and remote collaboration.
+
+- **Gun A. Lee**  
+  Senior Lecturer at the Australian Research Centre for Interactive and Virtual Environments, UniSA. His research investigates immersive interaction and visualization techniques for collaboration and training in XR.
+
+- **Allison K. Jing**  
+  Lecturer at RMIT University and Adjunct Researcher. Her research focuses on multimodal interaction, gaze-supported interfaces, and Mixed Reality remote collaboration.
+
+- **Kiyoshi Kiyokawa**  
+  Professor at Nara Institute of Science and Technology. His research interests include VR, AR, human augmentation, 3D user interfaces, and CSCW. Fellow of the Virtual Reality Society of Japan and IEEE VGTC VR Academy inductee.
+
+- **Adalberto L. Simeone**  
+  Associate Professor at KU Leuven. His research addresses fundamental HCI challenges in VR and XR, including 3D interaction, cross-reality systems, and accessibility.
 
 ---
 
